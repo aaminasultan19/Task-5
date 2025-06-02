@@ -1,14 +1,5 @@
 # Task 5 Report – Protocol Analysis using Wireshark
 
----
-
-##  Screenshot
-
-Below is a screenshot of the Wireshark session used to capture and analyze the traffic:
-
-![Wireshark Capture Screenshot](screenshots/wireshark_capture.png)
----
-
 ##  Protocols Identified
 
 ### 1. TCP (Transmission Control Protocol)
@@ -32,6 +23,13 @@ Below is a screenshot of the Wireshark session used to capture and analyze the t
 
 ---
 
+##  Screenshot
 
-##  Conclusion
+Below is a screenshot of the Wireshark session used to capture and analyze the traffic:
+
+![Wireshark Capture Screenshot](screehshots/wireshark_capture.png)
+
+---
+
+## Conclusion
 The Wireshark capture session demonstrates successful identification of various protocols in both local and external communications, improving hands-on network analysis skills.
