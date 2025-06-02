@@ -6,8 +6,7 @@
 
 Below is a screenshot of the Wireshark session used to capture and analyze the traffic:
 
-![Wireshark Capture Screenshot](./wireshark_capture_screenshot.png)
-
+![Wireshark Capture Screenshot](screenshots/wireshark_capture.png)
 ---
 
 ##  Protocols Identified
